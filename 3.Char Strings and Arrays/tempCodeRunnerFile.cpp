@@ -1,0 +1,1 @@
+char work[5]="code";
