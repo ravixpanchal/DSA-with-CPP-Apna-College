@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.java": "java",
-        "vector": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
